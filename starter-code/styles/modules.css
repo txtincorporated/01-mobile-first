@@ -13,6 +13,9 @@
   /* TODO: Add styles for the icon-menu class (whether it be the
       hamburger font or an image of your choosing). It should be
       bigger, and off to the right. */
+  float: right;
+  margin: 1.5rem 3rem;
+  font-size: 2rem;
 }
 
 .main-nav {
